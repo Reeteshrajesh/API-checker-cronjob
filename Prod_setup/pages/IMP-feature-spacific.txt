@@ -1,0 +1,14 @@
+https://api.v2.liquide.life/api/feeds/sentiments
+https://api.v2.liquide.life/api/users/me/menu/actions
+# https://api.v2.liquide.life/api/integrations/shortlink
+https://api.v2.liquide.life/api/users/balance
+https://api.v2.liquide.life/api/subscriptions/me
+https://api.v2.liquide.life/api/screeners/validity
+https://api.v2.liquide.life/api/users/brokers/smallcase
+https://api.v2.liquide.life/api/priorities/me?limit=20&version=1
+https://api.v2.liquide.life/api/subscriptions/plans
+https://api.v2.liquide.life/api/offers/best
+https://api.v2.liquide.life/api/subscriptions/isPremiumUser
+https://api.v2.liquide.life/api/portfolio/v2/profile/summary
+https://api.v2.liquide.life/api/portfolio/v2/me/flags?type=overall
+https://api.v2.liquide.life/api/rewards/me/scratchCards/count
