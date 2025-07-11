@@ -1,3 +1,1 @@
-https://api.v2.liquide.life/api/users/me
-https://api.v2.liquide.life/api/markets/stockbuzz
-https://api.v2.liquide.life/api/feeds/Home
+
