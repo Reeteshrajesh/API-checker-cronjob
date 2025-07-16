@@ -73,7 +73,7 @@ send_pagerduty_alert() {
     severity="critical"
     summary="🚨 CRITICAL: App is crashing!"
   elif [[ "$page" == "IMP-feature-spacific" ]]; then
-    severity="URGENT"
+    severity="warning"
     summary="❗ Important feature failure detected."
   fi
 
